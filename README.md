@@ -1,6 +1,6 @@
-# news
+# the nEWS hub
 
-A new Flutter application.
+A new Flutter application to view all that is going on around India!
 
 ## Getting Started
 
